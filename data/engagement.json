@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "status": "awaiting_first_collection",
+  "source": "Public P2N2 songs via free collector",
+  "profile": "https://suno.com/@p2n2",
+  "collected_at": null,
+  "songs_found": 0,
+  "metrics_coverage": {"comments": 0, "likes": 0, "plays": 0},
+  "songs": []
+}

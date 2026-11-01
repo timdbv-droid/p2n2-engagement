@@ -1,0 +1,58 @@
+name: Collect and publish public P2N2 engagement
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: p2n2-pages
+  cancel-in-progress: false
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify collector
+        run: python -m unittest discover -s tests -v
+      - name: Collect public Suno engagement (no paid service)
+        id: collect
+        continue-on-error: true
+        run: python collect.py
+      - name: Commit only verified public snapshots
+        if: steps.collect.outcome == 'success'
+        run: |
+          git config user.name 'P2N2 engagement bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/engagement.json data/history.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update public Suno engagement snapshot'
+            git push
+          fi
+      - name: Prepare static dashboard, even on failed first collection
+        run: |
+          mkdir -p public/data
+          cp index.html public/index.html
+          cp data/engagement.json data/history.json public/data/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Report collection failure clearly
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo 'Public Suno metadata collection failed. Dashboard was published with last verified data (or awaiting-first-collection state).'
+          exit 1
