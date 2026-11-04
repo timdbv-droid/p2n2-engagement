@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "source": "Public Suno profile/clip pages (unofficial, no paid service)",
-  "discovery": "public profile API page 1, public profile API page 2",
+  "discovery": "public profile API page 1, public profile API page 2, public profile API page 3",
   "profile": "https://suno.com/@p2n2",
   "catalogue_coverage": "Partial or unverified: Suno public pages are not guaranteed to expose every song",
-  "collected_at": "2026-11-03T08:25:37+00:00",
-  "songs_found": 40,
+  "collected_at": "2026-11-04T08:26:09+00:00",
+  "songs_found": 41,
   "songs": [
     {
       "id": "0b9daae7-25d3-4369-a8ab-25e12c288602",
@@ -13,12 +13,38 @@
       "url": "https://suno.com/song/0b9daae7-25d3-4369-a8ab-25e12c288602",
       "created_at": "2026-09-19T22:28:48.897Z",
       "comments": 12,
-      "likes": 44,
-      "plays": 4477,
+      "likes": 46,
+      "plays": 4536,
       "image": "https://cdn2.suno.ai/00e8ddfa-9d89-4d1b-9222-4d30202de991.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 43
+      "delta_likes": 2,
+      "delta_plays": 59
+    },
+    {
+      "id": "bbd7b273-ccc5-465b-a22f-f242cebac715",
+      "title": "DON'T LET GO",
+      "url": "https://suno.com/song/bbd7b273-ccc5-465b-a22f-f242cebac715",
+      "created_at": "2026-10-10T21:21:14.475Z",
+      "comments": 11,
+      "likes": 34,
+      "plays": 1220,
+      "image": "https://cdn2.suno.ai/bbd7b273-ccc5-465b-a22f-f242cebac715_36ed25e9.jpeg",
+      "delta_comments": null,
+      "delta_likes": null,
+      "delta_plays": null
+    },
+    {
+      "id": "483cf6a3-34d8-4669-8989-de448cca4ac1",
+      "title": "Four Clocks and a Staircase",
+      "url": "https://suno.com/song/483cf6a3-34d8-4669-8989-de448cca4ac1",
+      "created_at": "2026-11-01T18:10:33.713Z",
+      "comments": 9,
+      "likes": 15,
+      "plays": 120,
+      "image": "https://cdn2.suno.ai/video_upload_225621d3-86d9-415d-8da8-8d947de24ecb_video_upload_225621d3-86d9-415d-8da8-8d947de24ecb_cover_snapshot_0s_1793708389_image.jpeg",
+      "delta_comments": 5,
+      "delta_likes": 4,
+      "delta_plays": 58
     },
     {
       "id": "ecbe2a65-cfd9-40d4-b948-07cbf70a8316",
@@ -26,12 +52,12 @@
       "url": "https://suno.com/song/ecbe2a65-cfd9-40d4-b948-07cbf70a8316",
       "created_at": "2026-08-22T15:10:27.635Z",
       "comments": 7,
-      "likes": 23,
-      "plays": 399,
+      "likes": 26,
+      "plays": 427,
       "image": "https://cdn2.suno.ai/video_upload_42a10ddf-0d82-4020-bb59-993d13a700fd_video_upload_42a10ddf-0d82-4020-bb59-993d13a700fd_cover_snapshot_0s_1793240249_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 2,
-      "delta_plays": 9
+      "delta_likes": 3,
+      "delta_plays": 28
     },
     {
       "id": "449f1f02-f02f-4a8b-86d4-164d19fe5cc1",
@@ -53,11 +79,11 @@
       "created_at": "2026-10-09T23:29:53.559Z",
       "comments": 6,
       "likes": 19,
-      "plays": 135,
+      "plays": 144,
       "image": "https://cdn2.suno.ai/video_gen_e4b82cb2-1bd8-4327-a521-d28318096b9b_video_upload_e4b82cb2-1bd8-4327-a521-d28318096b9b_cover_snapshot_0s_1792790869_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
-      "delta_plays": 1
+      "delta_likes": 0,
+      "delta_plays": 9
     },
     {
       "id": "f43e135a-307d-4066-ae99-ac7cfc67312c",
@@ -73,17 +99,30 @@
       "delta_plays": 0
     },
     {
+      "id": "df68b244-4b36-4e30-8573-385771bdba59",
+      "title": "Hallo (Skewed)",
+      "url": "https://suno.com/song/df68b244-4b36-4e30-8573-385771bdba59",
+      "created_at": "2026-09-13T12:38:33.009Z",
+      "comments": 5,
+      "likes": 25,
+      "plays": 71,
+      "image": "https://cdn2.suno.ai/video_upload_f2be32a2-6a73-4f2b-9f5e-017cca08ba67_video_upload_f2be32a2-6a73-4f2b-9f5e-017cca08ba67_cover_snapshot_0s_1793672113_image.jpeg",
+      "delta_comments": 1,
+      "delta_likes": 4,
+      "delta_plays": 9
+    },
+    {
       "id": "5602899c-9742-4fd1-9dfa-f1da55119983",
       "title": ": : snail x сonst мenu",
       "url": "https://suno.com/song/5602899c-9742-4fd1-9dfa-f1da55119983",
       "created_at": "2026-10-25T08:12:56.889Z",
       "comments": 5,
       "likes": 24,
-      "plays": 698,
+      "plays": 709,
       "image": "https://cdn2.suno.ai/video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_cover_snapshot_0s_1792919228_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 9
+      "delta_plays": 11
     },
     {
       "id": "125b2fae-4cec-400b-a647-bf0f6d482101",
@@ -105,11 +144,11 @@
       "created_at": "2026-09-12T03:52:57.216Z",
       "comments": 5,
       "likes": 23,
-      "plays": 1156,
+      "plays": 1157,
       "image": "https://cdn2.suno.ai/ab85053a-ba8c-4c12-bd94-2fee69fe6541.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 1
     },
     {
       "id": "ead7bb84-6098-4e45-9219-cc3bd67422e6",
@@ -131,24 +170,11 @@
       "created_at": "2026-10-08T23:25:20.719Z",
       "comments": 4,
       "likes": 25,
-      "plays": 1176,
+      "plays": 1178,
       "image": "https://cdn2.suno.ai/c2ff1f03-e28f-4c11-804a-022a05d45feb_397d7f7d.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 7
-    },
-    {
-      "id": "df68b244-4b36-4e30-8573-385771bdba59",
-      "title": "Hallo (Skewed)",
-      "url": "https://suno.com/song/df68b244-4b36-4e30-8573-385771bdba59",
-      "created_at": "2026-09-13T12:38:33.009Z",
-      "comments": 4,
-      "likes": 21,
-      "plays": 62,
-      "image": "https://cdn2.suno.ai/video_upload_f2be32a2-6a73-4f2b-9f5e-017cca08ba67_video_upload_f2be32a2-6a73-4f2b-9f5e-017cca08ba67_cover_snapshot_0s_1793672113_image.jpeg",
-      "delta_comments": 0,
-      "delta_likes": 2,
-      "delta_plays": 6
+      "delta_plays": 2
     },
     {
       "id": "852ad401-469c-43a6-b3d9-2ba889eeea51",
@@ -177,19 +203,6 @@
       "delta_plays": 0
     },
     {
-      "id": "483cf6a3-34d8-4669-8989-de448cca4ac1",
-      "title": "Four Clocks and a Staircase ",
-      "url": "https://suno.com/song/483cf6a3-34d8-4669-8989-de448cca4ac1",
-      "created_at": "2026-11-01T18:10:33.713Z",
-      "comments": 4,
-      "likes": 11,
-      "plays": 62,
-      "image": "https://cdn2.suno.ai/483cf6a3-34d8-4669-8989-de448cca4ac1_a5a64512.jpeg",
-      "delta_comments": null,
-      "delta_likes": null,
-      "delta_plays": null
-    },
-    {
       "id": "c925239f-ac37-455f-ad8c-06050c2b07e3",
       "title": "Ngai Ya",
       "url": "https://suno.com/song/c925239f-ac37-455f-ad8c-06050c2b07e3",
@@ -200,7 +213,7 @@
       "image": "https://cdn2.suno.ai/c925239f-ac37-455f-ad8c-06050c2b07e3_0c15fe16.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 17
+      "delta_plays": 0
     },
     {
       "id": "492c9157-b02a-4ea5-b010-d4a9c4462588",
@@ -208,12 +221,12 @@
       "url": "https://suno.com/song/492c9157-b02a-4ea5-b010-d4a9c4462588",
       "created_at": "2026-10-26T21:53:46.917Z",
       "comments": 3,
-      "likes": 21,
+      "likes": 22,
       "plays": 116,
       "image": "https://cdn2.suno.ai/2fd57f7d-37cb-4836-9022-7cbe04d4c817.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 9
+      "delta_likes": 1,
+      "delta_plays": 0
     },
     {
       "id": "ea8ff59d-95a2-4895-b291-008a717fe82a",
@@ -227,6 +240,19 @@
       "delta_comments": 0,
       "delta_likes": 0,
       "delta_plays": 0
+    },
+    {
+      "id": "b90a7b1b-e727-4c2e-b36a-7309fdafa814",
+      "title": "Scarry",
+      "url": "https://suno.com/song/b90a7b1b-e727-4c2e-b36a-7309fdafa814",
+      "created_at": "2026-11-02T11:46:45.755Z",
+      "comments": 3,
+      "likes": 10,
+      "plays": 62,
+      "image": "https://cdn2.suno.ai/video_upload_9599afc0-c546-4e2d-b7d0-3be6fad80300_video_upload_9599afc0-c546-4e2d-b7d0-3be6fad80300_cover_snapshot_0s_1793710536_image.jpeg",
+      "delta_comments": 1,
+      "delta_likes": 5,
+      "delta_plays": 26
     },
     {
       "id": "e6c44ada-326e-4494-8011-adc6b636be42",
@@ -260,12 +286,12 @@
       "url": "https://suno.com/song/ee818f32-2fd7-4ce1-bd5f-581268e842e8",
       "created_at": "2026-10-05T09:17:14.699Z",
       "comments": 2,
-      "likes": 27,
-      "plays": 200,
+      "likes": 28,
+      "plays": 209,
       "image": "https://cdn2.suno.ai/77f96be7-7af4-4240-b5bc-d6d9eb8b0ef8.jpeg",
       "delta_comments": 0,
       "delta_likes": 1,
-      "delta_plays": 0
+      "delta_plays": 9
     },
     {
       "id": "e442b062-c9a6-4842-806e-004650751435",
@@ -273,12 +299,12 @@
       "url": "https://suno.com/song/e442b062-c9a6-4842-806e-004650751435",
       "created_at": "2026-10-27T21:43:27.263Z",
       "comments": 2,
-      "likes": 18,
-      "plays": 122,
+      "likes": 20,
+      "plays": 130,
       "image": "https://cdn2.suno.ai/16bfe80d-7334-4123-862e-02dec82fc59d.jpeg",
       "delta_comments": 0,
       "delta_likes": 2,
-      "delta_plays": 0
+      "delta_plays": 8
     },
     {
       "id": "bda7adec-d581-4bdc-a680-1f11c3794cde",
@@ -291,7 +317,7 @@
       "image": "https://cdn2.suno.ai/bda7adec-d581-4bdc-a680-1f11c3794cde_720cfbb6.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 7
+      "delta_plays": 0
     },
     {
       "id": "c04ad0bb-2247-4977-a1e1-9adefe358436",
@@ -333,19 +359,6 @@
       "delta_plays": 0
     },
     {
-      "id": "b90a7b1b-e727-4c2e-b36a-7309fdafa814",
-      "title": "Scarry",
-      "url": "https://suno.com/song/b90a7b1b-e727-4c2e-b36a-7309fdafa814",
-      "created_at": "2026-11-02T11:46:45.755Z",
-      "comments": 2,
-      "likes": 5,
-      "plays": 36,
-      "image": "https://cdn2.suno.ai/b90a7b1b-e727-4c2e-b36a-7309fdafa814_1c8602cb.jpeg",
-      "delta_comments": null,
-      "delta_likes": null,
-      "delta_plays": null
-    },
-    {
       "id": "2cc28417-6f76-4b51-b06b-04a4fe9f47fc",
       "title": "Follow The Signal (Jumbled)",
       "url": "https://suno.com/song/2cc28417-6f76-4b51-b06b-04a4fe9f47fc",
@@ -377,11 +390,11 @@
       "url": "https://suno.com/song/419b9013-a578-481b-b4a6-ff3cf961d351",
       "created_at": "2026-10-21T22:57:51.894Z",
       "comments": 1,
-      "likes": 6,
+      "likes": 7,
       "plays": 79,
       "image": "https://cdn2.suno.ai/419b9013-a578-481b-b4a6-ff3cf961d351_08a8b921.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
+      "delta_likes": 1,
       "delta_plays": 0
     },
     {
@@ -398,17 +411,30 @@
       "delta_plays": 0
     },
     {
+      "id": "fda163af-bdf8-4b50-93e7-59411cdf55c4",
+      "title": "Когда мои волосы были длинными (Remix)",
+      "url": "https://suno.com/song/fda163af-bdf8-4b50-93e7-59411cdf55c4",
+      "created_at": "2026-08-15T02:00:43.620Z",
+      "comments": 1,
+      "likes": 2,
+      "plays": 78,
+      "image": "https://cdn2.suno.ai/fda163af-bdf8-4b50-93e7-59411cdf55c4_543ab88c.jpeg",
+      "delta_comments": 1,
+      "delta_likes": 1,
+      "delta_plays": 0
+    },
+    {
       "id": "c68836df-cfb3-43ac-b62a-f54b2f452a1b",
       "title": "Mind The Gap",
       "url": "https://suno.com/song/c68836df-cfb3-43ac-b62a-f54b2f452a1b",
       "created_at": "2026-10-24T19:06:41.795Z",
       "comments": 0,
       "likes": 20,
-      "plays": 1128,
+      "plays": 1141,
       "image": "https://cdn2.suno.ai/video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_cover_snapshot_0s_1792873375_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 2
+      "delta_plays": 13
     },
     {
       "id": "cad766ea-7f71-4c11-b916-b7a38cc4f0e6",
@@ -417,11 +443,11 @@
       "created_at": "2026-10-23T18:05:05.699Z",
       "comments": 0,
       "likes": 12,
-      "plays": 119,
+      "plays": 126,
       "image": "https://cdn2.suno.ai/034f594c-c782-4fd9-b45f-8efc96270d03.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 7
     },
     {
       "id": "3c405289-76df-4ef3-bb60-315ffd91da7e",
@@ -502,19 +528,6 @@
       "delta_plays": 0
     },
     {
-      "id": "fda163af-bdf8-4b50-93e7-59411cdf55c4",
-      "title": "Когда мои волосы были длинными (Remix)",
-      "url": "https://suno.com/song/fda163af-bdf8-4b50-93e7-59411cdf55c4",
-      "created_at": "2026-08-15T02:00:43.620Z",
-      "comments": 0,
-      "likes": 1,
-      "plays": 78,
-      "image": "https://cdn2.suno.ai/fda163af-bdf8-4b50-93e7-59411cdf55c4_543ab88c.jpeg",
-      "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 0
-    },
-    {
       "id": "3abe2747-f41b-4341-9e90-35f9f5bf5488",
       "title": "Play Me Back in the Morning",
       "url": "https://suno.com/song/3abe2747-f41b-4341-9e90-35f9f5bf5488",
@@ -529,8 +542,8 @@
     }
   ],
   "metrics_coverage": {
-    "comments": 40,
-    "likes": 40,
-    "plays": 40
+    "comments": 41,
+    "likes": 41,
+    "plays": 41
   }
 }
