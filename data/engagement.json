@@ -4,7 +4,7 @@
   "discovery": "public profile API page 1, public profile API page 2, public profile API page 3",
   "profile": "https://suno.com/@p2n2",
   "catalogue_coverage": "Partial or unverified: Suno public pages are not guaranteed to expose every song",
-  "collected_at": "2026-11-07T08:12:04+00:00",
+  "collected_at": "2026-11-08T08:12:50+00:00",
   "songs_found": 41,
   "songs": [
     {
@@ -12,13 +12,13 @@
       "title": "Four Clocks and a Staircase",
       "url": "https://suno.com/song/483cf6a3-34d8-4669-8989-de448cca4ac1",
       "created_at": "2026-11-01T18:10:33.713Z",
-      "comments": 15,
-      "likes": 22,
-      "plays": 136,
+      "comments": 16,
+      "likes": 24,
+      "plays": 155,
       "image": "https://cdn2.suno.ai/video_upload_225621d3-86d9-415d-8da8-8d947de24ecb_video_upload_225621d3-86d9-415d-8da8-8d947de24ecb_cover_snapshot_0s_1793708389_image.jpeg",
-      "delta_comments": 5,
-      "delta_likes": 4,
-      "delta_plays": 15
+      "delta_comments": 1,
+      "delta_likes": 2,
+      "delta_plays": 19
     },
     {
       "id": "0b9daae7-25d3-4369-a8ab-25e12c288602",
@@ -26,25 +26,25 @@
       "url": "https://suno.com/song/0b9daae7-25d3-4369-a8ab-25e12c288602",
       "created_at": "2026-09-19T22:28:48.897Z",
       "comments": 13,
-      "likes": 46,
-      "plays": 4741,
+      "likes": 48,
+      "plays": 4818,
       "image": "https://cdn2.suno.ai/00e8ddfa-9d89-4d1b-9222-4d30202de991.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 64
+      "delta_likes": 2,
+      "delta_plays": 77
     },
     {
       "id": "f1051114-acac-4029-a2c5-ac663dfd2cef",
-      "title": "Along the Land's Edges",
+      "title": "Along the Land's Edges (Farm Lady on a Dirt Road) ",
       "url": "https://suno.com/song/f1051114-acac-4029-a2c5-ac663dfd2cef",
       "created_at": "2026-11-04T10:06:14.472Z",
-      "comments": 8,
-      "likes": 23,
-      "plays": 117,
+      "comments": 9,
+      "likes": 27,
+      "plays": 126,
       "image": "https://cdn2.suno.ai/video_upload_4e923fd4-a9fc-4c40-8cf0-63171f71b621_video_upload_4e923fd4-a9fc-4c40-8cf0-63171f71b621_cover_snapshot_0s_1793915902_image.jpeg",
-      "delta_comments": 3,
+      "delta_comments": 1,
       "delta_likes": 4,
-      "delta_plays": 13
+      "delta_plays": 9
     },
     {
       "id": "ecbe2a65-cfd9-40d4-b948-07cbf70a8316",
@@ -53,11 +53,11 @@
       "created_at": "2026-08-22T15:10:27.635Z",
       "comments": 7,
       "likes": 28,
-      "plays": 446,
+      "plays": 458,
       "image": "https://cdn2.suno.ai/video_upload_42a10ddf-0d82-4020-bb59-993d13a700fd_video_upload_42a10ddf-0d82-4020-bb59-993d13a700fd_cover_snapshot_0s_1793240249_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
-      "delta_plays": 9
+      "delta_likes": 0,
+      "delta_plays": 12
     },
     {
       "id": "449f1f02-f02f-4a8b-86d4-164d19fe5cc1",
@@ -66,11 +66,11 @@
       "created_at": "2026-10-13T12:33:07.964Z",
       "comments": 6,
       "likes": 25,
-      "plays": 146,
+      "plays": 155,
       "image": "https://cdn2.suno.ai/b154b073-38bf-4dfd-bc11-97a147189eef.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
-      "delta_plays": 0
+      "delta_likes": 0,
+      "delta_plays": 9
     },
     {
       "id": "24fb6b0c-4828-45d3-9824-f3bde316dafe",
@@ -92,11 +92,11 @@
       "created_at": "2026-11-02T11:46:45.755Z",
       "comments": 6,
       "likes": 15,
-      "plays": 86,
+      "plays": 97,
       "image": "https://cdn2.suno.ai/video_upload_9599afc0-c546-4e2d-b7d0-3be6fad80300_video_upload_9599afc0-c546-4e2d-b7d0-3be6fad80300_cover_snapshot_0s_1793710536_image.jpeg",
-      "delta_comments": 2,
-      "delta_likes": 1,
-      "delta_plays": 6
+      "delta_comments": 0,
+      "delta_likes": 0,
+      "delta_plays": 11
     },
     {
       "id": "f43e135a-307d-4066-ae99-ac7cfc67312c",
@@ -118,11 +118,24 @@
       "created_at": "2026-09-13T12:38:33.009Z",
       "comments": 5,
       "likes": 27,
-      "plays": 403,
+      "plays": 704,
       "image": "https://cdn2.suno.ai/video_upload_05872090-369c-4841-a1a7-3f6852abeb38_video_upload_05872090-369c-4841-a1a7-3f6852abeb38_cover_snapshot_0s_1793916110_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 331
+      "delta_plays": 301
+    },
+    {
+      "id": "125b2fae-4cec-400b-a647-bf0f6d482101",
+      "title": "Tonight Is Ours | Hadi Lila Dyalna | rmx",
+      "url": "https://suno.com/song/125b2fae-4cec-400b-a647-bf0f6d482101",
+      "created_at": "2026-09-29T22:44:11.530Z",
+      "comments": 5,
+      "likes": 24,
+      "plays": 139,
+      "image": "https://cdn2.suno.ai/125b2fae-4cec-400b-a647-bf0f6d482101_9a63a75e.jpeg",
+      "delta_comments": 0,
+      "delta_likes": 1,
+      "delta_plays": 9
     },
     {
       "id": "5602899c-9742-4fd1-9dfa-f1da55119983",
@@ -135,19 +148,6 @@
       "image": "https://cdn2.suno.ai/video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_cover_snapshot_0s_1792919228_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 1
-    },
-    {
-      "id": "125b2fae-4cec-400b-a647-bf0f6d482101",
-      "title": "Tonight Is Ours | Hadi Lila Dyalna | rmx",
-      "url": "https://suno.com/song/125b2fae-4cec-400b-a647-bf0f6d482101",
-      "created_at": "2026-09-29T22:44:11.530Z",
-      "comments": 5,
-      "likes": 23,
-      "plays": 130,
-      "image": "https://cdn2.suno.ai/125b2fae-4cec-400b-a647-bf0f6d482101_9a63a75e.jpeg",
-      "delta_comments": 0,
-      "delta_likes": 0,
       "delta_plays": 0
     },
     {
@@ -157,11 +157,11 @@
       "created_at": "2026-09-12T03:52:57.216Z",
       "comments": 5,
       "likes": 23,
-      "plays": 1162,
+      "plays": 1164,
       "image": "https://cdn2.suno.ai/ab85053a-ba8c-4c12-bd94-2fee69fe6541.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 3
+      "delta_plays": 2
     },
     {
       "id": "ead7bb84-6098-4e45-9219-cc3bd67422e6",
@@ -169,12 +169,12 @@
       "url": "https://suno.com/song/ead7bb84-6098-4e45-9219-cc3bd67422e6",
       "created_at": "2026-09-26T21:11:19.884Z",
       "comments": 4,
-      "likes": 27,
-      "plays": 625,
+      "likes": 28,
+      "plays": 642,
       "image": "https://cdn2.suno.ai/ead7bb84-6098-4e45-9219-cc3bd67422e6_a5fa1eb3.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 0
+      "delta_likes": 1,
+      "delta_plays": 17
     },
     {
       "id": "c2ff1f03-e28f-4c11-804a-022a05d45feb",
@@ -182,12 +182,12 @@
       "url": "https://suno.com/song/c2ff1f03-e28f-4c11-804a-022a05d45feb",
       "created_at": "2026-10-08T23:25:20.719Z",
       "comments": 4,
-      "likes": 25,
-      "plays": 1187,
+      "likes": 26,
+      "plays": 1193,
       "image": "https://cdn2.suno.ai/c2ff1f03-e28f-4c11-804a-022a05d45feb_397d7f7d.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 4
+      "delta_likes": 1,
+      "delta_plays": 6
     },
     {
       "id": "852ad401-469c-43a6-b3d9-2ba889eeea51",
@@ -199,7 +199,7 @@
       "plays": 167,
       "image": "https://cdn2.suno.ai/7811b177-460a-4771-9d9f-d780f0cdaec9.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
+      "delta_likes": 0,
       "delta_plays": 0
     },
     {
@@ -208,11 +208,11 @@
       "url": "https://suno.com/song/0bb947fb-2b8c-48e5-b48c-d43fa3b88453",
       "created_at": "2026-10-11T15:10:56.221Z",
       "comments": 4,
-      "likes": 14,
+      "likes": 15,
       "plays": 82,
       "image": "https://cdn2.suno.ai/d2b08b09-8b2d-479c-b2f1-dcb52823eb7c.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
+      "delta_likes": 1,
       "delta_plays": 0
     },
     {
@@ -235,11 +235,11 @@
       "created_at": "2026-10-26T21:53:46.917Z",
       "comments": 3,
       "likes": 22,
-      "plays": 116,
+      "plays": 123,
       "image": "https://cdn2.suno.ai/2fd57f7d-37cb-4836-9022-7cbe04d4c817.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 7
     },
     {
       "id": "ea8ff59d-95a2-4895-b291-008a717fe82a",
@@ -304,7 +304,7 @@
       "image": "https://cdn2.suno.ai/16bfe80d-7334-4123-862e-02dec82fc59d.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 9
+      "delta_plays": 0
     },
     {
       "id": "bda7adec-d581-4bdc-a680-1f11c3794cde",
@@ -352,11 +352,24 @@
       "created_at": "2026-08-31T20:23:24.783Z",
       "comments": 2,
       "likes": 11,
-      "plays": 757,
+      "plays": 758,
       "image": "https://cdn2.suno.ai/ea3cd02d-3cf4-4888-bee2-b625f6c16095_59b64f8a.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 1
+    },
+    {
+      "id": "7b82d412-7abd-4846-975b-14600ccae2fc",
+      "title": "Qu'est-ce que tu fais?",
+      "url": "https://suno.com/song/7b82d412-7abd-4846-975b-14600ccae2fc",
+      "created_at": "2026-11-07T16:15:09.583Z",
+      "comments": 2,
+      "likes": 9,
+      "plays": 41,
+      "image": "https://cdn2.suno.ai/video_upload_60f58203-d725-4506-93c5-b870ce2a479e_video_upload_60f58203-d725-4506-93c5-b870ce2a479e_cover_snapshot_0s_1794071195_image.jpeg",
+      "delta_comments": null,
+      "delta_likes": null,
+      "delta_plays": null
     },
     {
       "id": "2cc28417-6f76-4b51-b06b-04a4fe9f47fc",
@@ -381,7 +394,7 @@
       "plays": 88,
       "image": "https://cdn2.suno.ai/419b9013-a578-481b-b4a6-ff3cf961d351_08a8b921.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
+      "delta_likes": 0,
       "delta_plays": 0
     },
     {
@@ -393,19 +406,6 @@
       "likes": 8,
       "plays": 143,
       "image": "https://cdn2.suno.ai/c96d4ec9-c3ef-44d6-8578-a99d75dd85b2_7faf0916.jpeg",
-      "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 0
-    },
-    {
-      "id": "da705e9d-df19-4b46-ae2e-4e5743a0c93d",
-      "title": "Qu'est-ce que tu fais (Remix)",
-      "url": "https://suno.com/song/da705e9d-df19-4b46-ae2e-4e5743a0c93d",
-      "created_at": "2026-08-31T17:26:57.013Z",
-      "comments": 1,
-      "likes": 6,
-      "plays": 95,
-      "image": "https://cdn2.suno.ai/da705e9d-df19-4b46-ae2e-4e5743a0c93d_2295ee7a.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
       "delta_plays": 0
@@ -430,11 +430,11 @@
       "created_at": "2026-10-24T19:06:41.795Z",
       "comments": 0,
       "likes": 20,
-      "plays": 1178,
+      "plays": 1185,
       "image": "https://cdn2.suno.ai/video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_cover_snapshot_0s_1792873375_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 28
+      "delta_plays": 7
     },
     {
       "id": "cad766ea-7f71-4c11-b916-b7a38cc4f0e6",
@@ -442,12 +442,12 @@
       "url": "https://suno.com/song/cad766ea-7f71-4c11-b916-b7a38cc4f0e6",
       "created_at": "2026-10-23T18:05:05.699Z",
       "comments": 0,
-      "likes": 12,
+      "likes": 11,
       "plays": 128,
       "image": "https://cdn2.suno.ai/034f594c-c782-4fd9-b45f-8efc96270d03.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 2
+      "delta_likes": -1,
+      "delta_plays": 0
     },
     {
       "id": "3c405289-76df-4ef3-bb60-315ffd91da7e",
@@ -495,11 +495,11 @@
       "created_at": "2026-08-15T04:17:51.638Z",
       "comments": 0,
       "likes": 2,
-      "plays": 182,
+      "plays": 183,
       "image": "https://cdn2.suno.ai/video_upload_5348c84f-2f97-41fb-886d-c00e78bca5e9_video_upload_5348c84f-2f97-41fb-886d-c00e78bca5e9_cover_snapshot_0s_1786930186_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 1
     },
     {
       "id": "6be08a2d-917c-4ab1-9476-1f6bfb6478be",
@@ -508,11 +508,11 @@
       "created_at": "2026-08-23T22:01:08.573Z",
       "comments": 0,
       "likes": 2,
-      "plays": 352,
+      "plays": 358,
       "image": "https://cdn2.suno.ai/fb51ebb1-42fa-4026-b95b-d08de40ca930.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 6
     },
     {
       "id": "26fe1514-0d30-41a5-9dfe-c70408566fc4",
