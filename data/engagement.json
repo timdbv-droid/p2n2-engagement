@@ -4,7 +4,7 @@
   "discovery": "public profile API page 1, public profile API page 2, public profile API page 3",
   "profile": "https://suno.com/@p2n2",
   "catalogue_coverage": "Partial or unverified: Suno public pages are not guaranteed to expose every song",
-  "collected_at": "2026-11-18T08:27:58+00:00",
+  "collected_at": "2026-11-19T08:32:14+00:00",
   "songs_found": 43,
   "songs": [
     {
@@ -26,12 +26,12 @@
       "url": "https://suno.com/song/0b9daae7-25d3-4369-a8ab-25e12c288602",
       "created_at": "2026-09-19T22:28:48.897Z",
       "comments": 16,
-      "likes": 54,
-      "plays": 5442,
+      "likes": 55,
+      "plays": 5493,
       "image": "https://cdn2.suno.ai/00e8ddfa-9d89-4d1b-9222-4d30202de991.jpeg",
-      "delta_comments": 1,
-      "delta_likes": 2,
-      "delta_plays": 36
+      "delta_comments": 0,
+      "delta_likes": 1,
+      "delta_plays": 51
     },
     {
       "id": "4ebe236f-2c1f-481d-9666-d11e5155fac9",
@@ -39,12 +39,12 @@
       "url": "https://suno.com/song/4ebe236f-2c1f-481d-9666-d11e5155fac9",
       "created_at": "2026-11-09T01:08:40.203Z",
       "comments": 13,
-      "likes": 23,
-      "plays": 332,
+      "likes": 24,
+      "plays": 333,
       "image": "https://cdn2.suno.ai/video_upload_d5a61697-50ab-427a-9603-362c843d9c59_video_upload_d5a61697-50ab-427a-9603-362c843d9c59_cover_snapshot_0s_1794190680_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 14
+      "delta_likes": 1,
+      "delta_plays": 1
     },
     {
       "id": "f1051114-acac-4029-a2c5-ac663dfd2cef",
@@ -52,11 +52,11 @@
       "url": "https://suno.com/song/f1051114-acac-4029-a2c5-ac663dfd2cef",
       "created_at": "2026-11-04T10:06:14.472Z",
       "comments": 9,
-      "likes": 35,
+      "likes": 34,
       "plays": 164,
       "image": "https://cdn2.suno.ai/video_upload_4e923fd4-a9fc-4c40-8cf0-63171f71b621_video_upload_4e923fd4-a9fc-4c40-8cf0-63171f71b621_cover_snapshot_0s_1793915902_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
+      "delta_likes": -1,
       "delta_plays": 0
     },
     {
@@ -82,7 +82,7 @@
       "plays": 449,
       "image": "https://cdn2.suno.ai/f43e135a-307d-4066-ae99-ac7cfc67312c_0d6ef2d5.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
+      "delta_likes": 0,
       "delta_plays": 0
     },
     {
@@ -92,11 +92,11 @@
       "created_at": "2026-09-13T12:38:33.009Z",
       "comments": 6,
       "likes": 29,
-      "plays": 2335,
+      "plays": 2337,
       "image": "https://cdn2.suno.ai/video_upload_05872090-369c-4841-a1a7-3f6852abeb38_video_upload_05872090-369c-4841-a1a7-3f6852abeb38_cover_snapshot_0s_1793916110_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 2
     },
     {
       "id": "5602899c-9742-4fd1-9dfa-f1da55119983",
@@ -109,7 +109,7 @@
       "image": "https://cdn2.suno.ai/video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_cover_snapshot_0s_1792919228_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 1
+      "delta_plays": 0
     },
     {
       "id": "449f1f02-f02f-4a8b-86d4-164d19fe5cc1",
@@ -125,30 +125,30 @@
       "delta_plays": 0
     },
     {
+      "id": "d6024f6b-2434-4769-9ba7-9dc216427244",
+      "title": "The Nameless Dolphin Song",
+      "url": "https://suno.com/song/d6024f6b-2434-4769-9ba7-9dc216427244",
+      "created_at": "2026-09-16T21:46:45.345Z",
+      "comments": 6,
+      "likes": 23,
+      "plays": 140,
+      "image": "https://cdn2.suno.ai/video_upload_0c933171-10cd-42bf-965d-8220da8998c7_video_upload_0c933171-10cd-42bf-965d-8220da8998c7_cover_snapshot_0s_1794443604_image.jpeg",
+      "delta_comments": 0,
+      "delta_likes": 3,
+      "delta_plays": 7
+    },
+    {
       "id": "24fb6b0c-4828-45d3-9824-f3bde316dafe",
       "title": "HAL10 | Electro Total",
       "url": "https://suno.com/song/24fb6b0c-4828-45d3-9824-f3bde316dafe",
       "created_at": "2026-10-09T23:29:53.559Z",
       "comments": 6,
       "likes": 21,
-      "plays": 159,
+      "plays": 160,
       "image": "https://cdn2.suno.ai/video_gen_e4b82cb2-1bd8-4327-a521-d28318096b9b_video_upload_e4b82cb2-1bd8-4327-a521-d28318096b9b_cover_snapshot_0s_1792790869_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
-    },
-    {
-      "id": "d6024f6b-2434-4769-9ba7-9dc216427244",
-      "title": "The Nameless Dolphin Song",
-      "url": "https://suno.com/song/d6024f6b-2434-4769-9ba7-9dc216427244",
-      "created_at": "2026-09-16T21:46:45.345Z",
-      "comments": 6,
-      "likes": 20,
-      "plays": 133,
-      "image": "https://cdn2.suno.ai/video_upload_0c933171-10cd-42bf-965d-8220da8998c7_video_upload_0c933171-10cd-42bf-965d-8220da8998c7_cover_snapshot_0s_1794443604_image.jpeg",
-      "delta_comments": 0,
-      "delta_likes": 1,
-      "delta_plays": 0
+      "delta_plays": 1
     },
     {
       "id": "125b2fae-4cec-400b-a647-bf0f6d482101",
@@ -174,7 +174,7 @@
       "image": "https://cdn2.suno.ai/ab85053a-ba8c-4c12-bd94-2fee69fe6541.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 1
+      "delta_plays": 0
     },
     {
       "id": "ead7bb84-6098-4e45-9219-cc3bd67422e6",
@@ -196,11 +196,11 @@
       "created_at": "2026-10-08T23:25:20.719Z",
       "comments": 4,
       "likes": 26,
-      "plays": 1245,
+      "plays": 1249,
       "image": "https://cdn2.suno.ai/c2ff1f03-e28f-4c11-804a-022a05d45feb_397d7f7d.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 12
+      "delta_plays": 4
     },
     {
       "id": "852ad401-469c-43a6-b3d9-2ba889eeea51",
@@ -255,6 +255,19 @@
       "delta_plays": 0
     },
     {
+      "id": "494a403d-562f-4fd7-963a-f05b2df30edc",
+      "title": "Unsaid. AI Drama",
+      "url": "https://suno.com/song/494a403d-562f-4fd7-963a-f05b2df30edc",
+      "created_at": "2026-08-22T23:53:37.331Z",
+      "comments": 3,
+      "likes": 22,
+      "plays": 1917,
+      "image": "https://cdn2.suno.ai/video_upload_19196e67-4f44-440b-8e51-d592c3dff55d_video_upload_19196e67-4f44-440b-8e51-d592c3dff55d_cover_snapshot_0s_1794443784_image.jpeg",
+      "delta_comments": 0,
+      "delta_likes": 2,
+      "delta_plays": 54
+    },
+    {
       "id": "ea8ff59d-95a2-4895-b291-008a717fe82a",
       "title": "Bist Du Noch Da?",
       "url": "https://suno.com/song/ea8ff59d-95a2-4895-b291-008a717fe82a",
@@ -268,17 +281,17 @@
       "delta_plays": 0
     },
     {
-      "id": "494a403d-562f-4fd7-963a-f05b2df30edc",
-      "title": "Unsaid. AI Drama",
-      "url": "https://suno.com/song/494a403d-562f-4fd7-963a-f05b2df30edc",
-      "created_at": "2026-08-22T23:53:37.331Z",
+      "id": "f404821c-9432-46c2-845a-c76eb4aac67b",
+      "title": "Ozymandias",
+      "url": "https://suno.com/song/f404821c-9432-46c2-845a-c76eb4aac67b",
+      "created_at": "2026-08-26T02:54:05.470Z",
       "comments": 3,
-      "likes": 20,
-      "plays": 1863,
-      "image": "https://cdn2.suno.ai/video_upload_19196e67-4f44-440b-8e51-d592c3dff55d_video_upload_19196e67-4f44-440b-8e51-d592c3dff55d_cover_snapshot_0s_1794443784_image.jpeg",
+      "likes": 12,
+      "plays": 189,
+      "image": "https://cdn2.suno.ai/aacaca0e-b542-41f1-8bbd-47066dae91e5.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 229
+      "delta_likes": 2,
+      "delta_plays": 96
     },
     {
       "id": "e6c44ada-326e-4494-8011-adc6b636be42",
@@ -292,19 +305,6 @@
       "delta_comments": 0,
       "delta_likes": 0,
       "delta_plays": 0
-    },
-    {
-      "id": "f404821c-9432-46c2-845a-c76eb4aac67b",
-      "title": "Ozymandias",
-      "url": "https://suno.com/song/f404821c-9432-46c2-845a-c76eb4aac67b",
-      "created_at": "2026-08-26T02:54:05.470Z",
-      "comments": 3,
-      "likes": 10,
-      "plays": 93,
-      "image": "https://cdn2.suno.ai/aacaca0e-b542-41f1-8bbd-47066dae91e5.jpeg",
-      "delta_comments": 1,
-      "delta_likes": 1,
-      "delta_plays": 7
     },
     {
       "id": "a5e4a862-2c1b-42b8-a67a-8623e196eeb9",
@@ -339,11 +339,11 @@
       "created_at": "2026-09-08T10:56:23.935Z",
       "comments": 2,
       "likes": 15,
-      "plays": 585,
+      "plays": 586,
       "image": "https://cdn2.suno.ai/0bd3a167-930f-476d-a3ad-db656b5330fb_5a654a7b.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
-      "delta_plays": 7
+      "delta_likes": 0,
+      "delta_plays": 1
     },
     {
       "id": "bda7adec-d581-4bdc-a680-1f11c3794cde",
@@ -394,8 +394,8 @@
       "plays": 62,
       "image": "https://cdn2.suno.ai/2cc28417-6f76-4b51-b06b-04a4fe9f47fc_16c8233b.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
-      "delta_plays": 6
+      "delta_likes": 0,
+      "delta_plays": 0
     },
     {
       "id": "c96d4ec9-c3ef-44d6-8578-a99d75dd85b2",
@@ -447,7 +447,7 @@
       "image": "https://cdn2.suno.ai/video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_cover_snapshot_0s_1792873375_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 1
+      "delta_plays": 0
     },
     {
       "id": "cad766ea-7f71-4c11-b916-b7a38cc4f0e6",
@@ -461,6 +461,19 @@
       "delta_comments": 0,
       "delta_likes": 0,
       "delta_plays": 0
+    },
+    {
+      "id": "0fcb527a-9d23-4a4a-be5c-0cca0ef70ac7",
+      "title": "Carry No Weight",
+      "url": "https://suno.com/song/0fcb527a-9d23-4a4a-be5c-0cca0ef70ac7",
+      "created_at": "2026-11-16T00:29:09.758Z",
+      "comments": 0,
+      "likes": 9,
+      "plays": 62,
+      "image": "https://cdn2.suno.ai/video_upload_41a5fbe9-2dd8-4d1f-a5aa-a665c8086986_video_upload_41a5fbe9-2dd8-4d1f-a5aa-a665c8086986_cover_snapshot_0s_1794963988_image.jpeg",
+      "delta_comments": 0,
+      "delta_likes": 6,
+      "delta_plays": 17
     },
     {
       "id": "854ad0d7-c0dd-4285-a7f9-0440c90c3abd",
@@ -489,29 +502,16 @@
       "delta_plays": 0
     },
     {
-      "id": "0fcb527a-9d23-4a4a-be5c-0cca0ef70ac7",
-      "title": "Carry No Weight",
-      "url": "https://suno.com/song/0fcb527a-9d23-4a4a-be5c-0cca0ef70ac7",
-      "created_at": "2026-11-16T00:29:09.758Z",
-      "comments": 0,
-      "likes": 3,
-      "plays": 45,
-      "image": "https://cdn2.suno.ai/video_upload_41a5fbe9-2dd8-4d1f-a5aa-a665c8086986_video_upload_41a5fbe9-2dd8-4d1f-a5aa-a665c8086986_cover_snapshot_0s_1794963988_image.jpeg",
-      "delta_comments": null,
-      "delta_likes": null,
-      "delta_plays": null
-    },
-    {
       "id": "e7fe315d-62e7-4f38-a182-4ddf86f51b68",
       "title": "Pampara (Remix)",
       "url": "https://suno.com/song/e7fe315d-62e7-4f38-a182-4ddf86f51b68",
       "created_at": "2026-08-22T15:01:33.594Z",
       "comments": 0,
-      "likes": 3,
+      "likes": 4,
       "plays": 158,
       "image": "https://cdn2.suno.ai/e7fe315d-62e7-4f38-a182-4ddf86f51b68_9ddb0285.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
+      "delta_likes": 1,
       "delta_plays": 0
     },
     {
