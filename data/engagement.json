@@ -4,8 +4,8 @@
   "discovery": "public profile API page 1, public profile API page 2, public profile API page 3",
   "profile": "https://suno.com/@p2n2",
   "catalogue_coverage": "Partial or unverified: Suno public pages are not guaranteed to expose every song",
-  "collected_at": "2026-11-23T08:46:03+00:00",
-  "songs_found": 45,
+  "collected_at": "2026-11-24T08:36:23+00:00",
+  "songs_found": 42,
   "songs": [
     {
       "id": "483cf6a3-34d8-4669-8989-de448cca4ac1",
@@ -14,11 +14,11 @@
       "created_at": "2026-11-01T18:10:33.713Z",
       "comments": 17,
       "likes": 34,
-      "plays": 246,
+      "plays": 253,
       "image": "https://cdn2.suno.ai/video_upload_225621d3-86d9-415d-8da8-8d947de24ecb_video_upload_225621d3-86d9-415d-8da8-8d947de24ecb_cover_snapshot_0s_1793708389_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 16
+      "delta_plays": 7
     },
     {
       "id": "0b9daae7-25d3-4369-a8ab-25e12c288602",
@@ -27,11 +27,11 @@
       "created_at": "2026-09-19T22:28:48.897Z",
       "comments": 16,
       "likes": 57,
-      "plays": 5785,
+      "plays": 5871,
       "image": "https://cdn2.suno.ai/00e8ddfa-9d89-4d1b-9222-4d30202de991.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
-      "delta_plays": 85
+      "delta_likes": 0,
+      "delta_plays": 86
     },
     {
       "id": "4ebe236f-2c1f-481d-9666-d11e5155fac9",
@@ -40,24 +40,24 @@
       "created_at": "2026-11-09T01:08:40.203Z",
       "comments": 13,
       "likes": 29,
-      "plays": 342,
+      "plays": 344,
       "image": "https://cdn2.suno.ai/video_upload_d5a61697-50ab-427a-9603-362c843d9c59_video_upload_d5a61697-50ab-427a-9603-362c843d9c59_cover_snapshot_0s_1794190680_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 2
     },
     {
       "id": "f404821c-9432-46c2-845a-c76eb4aac67b",
       "title": "Ozymandias",
       "url": "https://suno.com/song/f404821c-9432-46c2-845a-c76eb4aac67b",
       "created_at": "2026-08-26T02:54:05.470Z",
-      "comments": 10,
+      "comments": 11,
       "likes": 27,
-      "plays": 945,
+      "plays": 957,
       "image": "https://cdn2.suno.ai/video_upload_74d13752-db64-409b-ab8c-97e999f25bc0_video_upload_74d13752-db64-409b-ab8c-97e999f25bc0_cover_snapshot_0s_1795217694_image.jpeg",
       "delta_comments": 1,
-      "delta_likes": 4,
-      "delta_plays": 147
+      "delta_likes": 0,
+      "delta_plays": 12
     },
     {
       "id": "f1051114-acac-4029-a2c5-ac663dfd2cef",
@@ -69,7 +69,7 @@
       "plays": 164,
       "image": "https://cdn2.suno.ai/video_upload_4e923fd4-a9fc-4c40-8cf0-63171f71b621_video_upload_4e923fd4-a9fc-4c40-8cf0-63171f71b621_cover_snapshot_0s_1793915902_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
+      "delta_likes": 0,
       "delta_plays": 0
     },
     {
@@ -91,12 +91,12 @@
       "url": "https://suno.com/song/d6024f6b-2434-4769-9ba7-9dc216427244",
       "created_at": "2026-09-16T21:46:45.345Z",
       "comments": 7,
-      "likes": 28,
+      "likes": 29,
       "plays": 164,
       "image": "https://cdn2.suno.ai/video_upload_0c933171-10cd-42bf-965d-8220da8998c7_video_upload_0c933171-10cd-42bf-965d-8220da8998c7_cover_snapshot_0s_1794443604_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 1,
-      "delta_plays": 17
+      "delta_plays": 0
     },
     {
       "id": "ecbe2a65-cfd9-40d4-b948-07cbf70a8316",
@@ -109,7 +109,7 @@
       "image": "https://cdn2.suno.ai/video_upload_42a10ddf-0d82-4020-bb59-993d13a700fd_video_upload_42a10ddf-0d82-4020-bb59-993d13a700fd_cover_snapshot_0s_1793240249_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 7
+      "delta_plays": 0
     },
     {
       "id": "f43e135a-307d-4066-ae99-ac7cfc67312c",
@@ -135,7 +135,7 @@
       "image": "https://cdn2.suno.ai/video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_cover_snapshot_0s_1792919228_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 8
+      "delta_plays": 0
     },
     {
       "id": "449f1f02-f02f-4a8b-86d4-164d19fe5cc1",
@@ -164,19 +164,6 @@
       "delta_plays": 0
     },
     {
-      "id": "7be095cc-b4f7-49ab-aa89-0ca86b269925",
-      "title": "Till The Sun Comes Up",
-      "url": "https://suno.com/song/7be095cc-b4f7-49ab-aa89-0ca86b269925",
-      "created_at": "2026-11-20T01:44:05.626Z",
-      "comments": 6,
-      "likes": 19,
-      "plays": 81,
-      "image": "https://cdn2.suno.ai/video_upload_8e4218a9-8ba7-4a86-9e7c-843e6f28d77f_video_upload_8e4218a9-8ba7-4a86-9e7c-843e6f28d77f_cover_snapshot_0s_1795178948_image.jpeg",
-      "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 31
-    },
-    {
       "id": "125b2fae-4cec-400b-a647-bf0f6d482101",
       "title": "Tonight Is Ours | Hadi Lila Dyalna | rmx",
       "url": "https://suno.com/song/125b2fae-4cec-400b-a647-bf0f6d482101",
@@ -196,7 +183,7 @@
       "created_at": "2026-09-12T03:52:57.216Z",
       "comments": 5,
       "likes": 23,
-      "plays": 1177,
+      "plays": 1178,
       "image": "https://cdn2.suno.ai/ab85053a-ba8c-4c12-bd94-2fee69fe6541.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
@@ -221,25 +208,12 @@
       "url": "https://suno.com/song/c2ff1f03-e28f-4c11-804a-022a05d45feb",
       "created_at": "2026-10-08T23:25:20.719Z",
       "comments": 4,
-      "likes": 26,
-      "plays": 1263,
+      "likes": 27,
+      "plays": 1267,
       "image": "https://cdn2.suno.ai/c2ff1f03-e28f-4c11-804a-022a05d45feb_397d7f7d.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 2
-    },
-    {
-      "id": "0fcb527a-9d23-4a4a-be5c-0cca0ef70ac7",
-      "title": "Carry No Weight",
-      "url": "https://suno.com/song/0fcb527a-9d23-4a4a-be5c-0cca0ef70ac7",
-      "created_at": "2026-11-16T00:29:09.758Z",
-      "comments": 4,
-      "likes": 23,
-      "plays": 102,
-      "image": "https://cdn2.suno.ai/video_upload_41a5fbe9-2dd8-4d1f-a5aa-a665c8086986_video_upload_41a5fbe9-2dd8-4d1f-a5aa-a665c8086986_cover_snapshot_0s_1794963988_image.jpeg",
-      "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 7
+      "delta_likes": 1,
+      "delta_plays": 4
     },
     {
       "id": "852ad401-469c-43a6-b3d9-2ba889eeea51",
@@ -286,12 +260,12 @@
       "url": "https://suno.com/song/494a403d-562f-4fd7-963a-f05b2df30edc",
       "created_at": "2026-08-22T23:53:37.331Z",
       "comments": 3,
-      "likes": 25,
-      "plays": 2030,
+      "likes": 26,
+      "plays": 2057,
       "image": "https://cdn2.suno.ai/video_upload_19196e67-4f44-440b-8e51-d592c3dff55d_video_upload_19196e67-4f44-440b-8e51-d592c3dff55d_cover_snapshot_0s_1794443784_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 0
+      "delta_likes": 1,
+      "delta_plays": 27
     },
     {
       "id": "e442b062-c9a6-4842-806e-004650751435",
@@ -300,11 +274,11 @@
       "created_at": "2026-10-27T21:43:27.263Z",
       "comments": 3,
       "likes": 24,
-      "plays": 172,
+      "plays": 188,
       "image": "https://cdn2.suno.ai/16bfe80d-7334-4123-862e-02dec82fc59d.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 7
+      "delta_plays": 16
     },
     {
       "id": "ea8ff59d-95a2-4895-b291-008a717fe82a",
@@ -365,7 +339,7 @@
       "created_at": "2026-09-08T10:56:23.935Z",
       "comments": 2,
       "likes": 15,
-      "plays": 590,
+      "plays": 591,
       "image": "https://cdn2.suno.ai/0bd3a167-930f-476d-a3ad-db656b5330fb_5a654a7b.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
@@ -430,11 +404,11 @@
       "created_at": "2026-09-08T23:01:07.347Z",
       "comments": 1,
       "likes": 12,
-      "plays": 62,
+      "plays": 69,
       "image": "https://cdn2.suno.ai/2cc28417-6f76-4b51-b06b-04a4fe9f47fc_16c8233b.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 7
     },
     {
       "id": "c96d4ec9-c3ef-44d6-8578-a99d75dd85b2",
@@ -481,12 +455,12 @@
       "url": "https://suno.com/song/c68836df-cfb3-43ac-b62a-f54b2f452a1b",
       "created_at": "2026-10-24T19:06:41.795Z",
       "comments": 0,
-      "likes": 21,
+      "likes": 22,
       "plays": 1203,
       "image": "https://cdn2.suno.ai/video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_cover_snapshot_0s_1792873375_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 1
+      "delta_likes": 1,
+      "delta_plays": 0
     },
     {
       "id": "cad766ea-7f71-4c11-b916-b7a38cc4f0e6",
@@ -502,17 +476,17 @@
       "delta_plays": 0
     },
     {
-      "id": "854ad0d7-c0dd-4285-a7f9-0440c90c3abd",
-      "title": "Follow The Signal (Lyric)",
-      "url": "https://suno.com/song/854ad0d7-c0dd-4285-a7f9-0440c90c3abd",
-      "created_at": "2026-09-08T13:32:14.271Z",
+      "id": "f8d03603-cc34-4c13-b3c0-4d878a346790",
+      "title": "Awaiting | В ожидании",
+      "url": "https://suno.com/song/f8d03603-cc34-4c13-b3c0-4d878a346790",
+      "created_at": "2026-11-22T23:31:01.006Z",
       "comments": 0,
-      "likes": 5,
-      "plays": 62,
-      "image": "https://cdn2.suno.ai/854ad0d7-c0dd-4285-a7f9-0440c90c3abd_219c25da.jpeg",
+      "likes": 7,
+      "plays": 50,
+      "image": "https://cdn2.suno.ai/8f46f7f1-2249-4759-8a58-2c609c2ae179.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 0
+      "delta_likes": 3,
+      "delta_plays": 5
     },
     {
       "id": "3c405289-76df-4ef3-bb60-315ffd91da7e",
@@ -539,19 +513,6 @@
       "delta_comments": 0,
       "delta_likes": 0,
       "delta_plays": 0
-    },
-    {
-      "id": "f8d03603-cc34-4c13-b3c0-4d878a346790",
-      "title": "в ожидании",
-      "url": "https://suno.com/song/f8d03603-cc34-4c13-b3c0-4d878a346790",
-      "created_at": "2026-11-22T23:31:01.006Z",
-      "comments": 0,
-      "likes": 4,
-      "plays": 45,
-      "image": "https://cdn2.suno.ai/8f46f7f1-2249-4759-8a58-2c609c2ae179.jpeg",
-      "delta_comments": null,
-      "delta_likes": null,
-      "delta_plays": null
     },
     {
       "id": "6be08a2d-917c-4ab1-9476-1f6bfb6478be",
@@ -594,8 +555,8 @@
     }
   ],
   "metrics_coverage": {
-    "comments": 45,
-    "likes": 45,
-    "plays": 45
+    "comments": 42,
+    "likes": 42,
+    "plays": 42
   }
 }
