@@ -4,7 +4,7 @@
   "discovery": "public profile API page 1, public profile API page 2, public profile API page 3",
   "profile": "https://suno.com/@p2n2",
   "catalogue_coverage": "Partial or unverified: Suno public pages are not guaranteed to expose every song",
-  "collected_at": "2026-11-24T08:36:23+00:00",
+  "collected_at": "2026-11-25T08:41:11+00:00",
   "songs_found": 42,
   "songs": [
     {
@@ -14,11 +14,11 @@
       "created_at": "2026-11-01T18:10:33.713Z",
       "comments": 17,
       "likes": 34,
-      "plays": 253,
+      "plays": 255,
       "image": "https://cdn2.suno.ai/video_upload_225621d3-86d9-415d-8da8-8d947de24ecb_video_upload_225621d3-86d9-415d-8da8-8d947de24ecb_cover_snapshot_0s_1793708389_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 7
+      "delta_plays": 2
     },
     {
       "id": "0b9daae7-25d3-4369-a8ab-25e12c288602",
@@ -27,11 +27,11 @@
       "created_at": "2026-09-19T22:28:48.897Z",
       "comments": 16,
       "likes": 57,
-      "plays": 5871,
+      "plays": 5996,
       "image": "https://cdn2.suno.ai/00e8ddfa-9d89-4d1b-9222-4d30202de991.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 86
+      "delta_plays": 125
     },
     {
       "id": "4ebe236f-2c1f-481d-9666-d11e5155fac9",
@@ -44,7 +44,7 @@
       "image": "https://cdn2.suno.ai/video_upload_d5a61697-50ab-427a-9603-362c843d9c59_video_upload_d5a61697-50ab-427a-9603-362c843d9c59_cover_snapshot_0s_1794190680_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 2
+      "delta_plays": 0
     },
     {
       "id": "f404821c-9432-46c2-845a-c76eb4aac67b",
@@ -52,12 +52,12 @@
       "url": "https://suno.com/song/f404821c-9432-46c2-845a-c76eb4aac67b",
       "created_at": "2026-08-26T02:54:05.470Z",
       "comments": 11,
-      "likes": 27,
-      "plays": 957,
+      "likes": 30,
+      "plays": 961,
       "image": "https://cdn2.suno.ai/video_upload_74d13752-db64-409b-ab8c-97e999f25bc0_video_upload_74d13752-db64-409b-ab8c-97e999f25bc0_cover_snapshot_0s_1795217694_image.jpeg",
-      "delta_comments": 1,
-      "delta_likes": 0,
-      "delta_plays": 12
+      "delta_comments": 0,
+      "delta_likes": 3,
+      "delta_plays": 4
     },
     {
       "id": "f1051114-acac-4029-a2c5-ac663dfd2cef",
@@ -65,24 +65,11 @@
       "url": "https://suno.com/song/f1051114-acac-4029-a2c5-ac663dfd2cef",
       "created_at": "2026-11-04T10:06:14.472Z",
       "comments": 9,
-      "likes": 36,
+      "likes": 37,
       "plays": 164,
       "image": "https://cdn2.suno.ai/video_upload_4e923fd4-a9fc-4c40-8cf0-63171f71b621_video_upload_4e923fd4-a9fc-4c40-8cf0-63171f71b621_cover_snapshot_0s_1793915902_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 0
-    },
-    {
-      "id": "df68b244-4b36-4e30-8573-385771bdba59",
-      "title": "Hallo (Skewed)",
-      "url": "https://suno.com/song/df68b244-4b36-4e30-8573-385771bdba59",
-      "created_at": "2026-09-13T12:38:33.009Z",
-      "comments": 7,
-      "likes": 31,
-      "plays": 2341,
-      "image": "https://cdn2.suno.ai/video_upload_05872090-369c-4841-a1a7-3f6852abeb38_video_upload_05872090-369c-4841-a1a7-3f6852abeb38_cover_snapshot_0s_1793916110_image.jpeg",
-      "delta_comments": 0,
-      "delta_likes": 0,
+      "delta_likes": 1,
       "delta_plays": 0
     },
     {
@@ -90,10 +77,23 @@
       "title": "The Nameless Dolphin Song",
       "url": "https://suno.com/song/d6024f6b-2434-4769-9ba7-9dc216427244",
       "created_at": "2026-09-16T21:46:45.345Z",
-      "comments": 7,
-      "likes": 29,
-      "plays": 164,
+      "comments": 8,
+      "likes": 32,
+      "plays": 182,
       "image": "https://cdn2.suno.ai/video_upload_0c933171-10cd-42bf-965d-8220da8998c7_video_upload_0c933171-10cd-42bf-965d-8220da8998c7_cover_snapshot_0s_1794443604_image.jpeg",
+      "delta_comments": 1,
+      "delta_likes": 3,
+      "delta_plays": 18
+    },
+    {
+      "id": "df68b244-4b36-4e30-8573-385771bdba59",
+      "title": "Hallo (Skewed)",
+      "url": "https://suno.com/song/df68b244-4b36-4e30-8573-385771bdba59",
+      "created_at": "2026-09-13T12:38:33.009Z",
+      "comments": 7,
+      "likes": 32,
+      "plays": 2341,
+      "image": "https://cdn2.suno.ai/video_upload_05872090-369c-4841-a1a7-3f6852abeb38_video_upload_05872090-369c-4841-a1a7-3f6852abeb38_cover_snapshot_0s_1793916110_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 1,
       "delta_plays": 0
@@ -104,12 +104,12 @@
       "url": "https://suno.com/song/ecbe2a65-cfd9-40d4-b948-07cbf70a8316",
       "created_at": "2026-08-22T15:10:27.635Z",
       "comments": 7,
-      "likes": 28,
-      "plays": 503,
+      "likes": 29,
+      "plays": 512,
       "image": "https://cdn2.suno.ai/video_upload_42a10ddf-0d82-4020-bb59-993d13a700fd_video_upload_42a10ddf-0d82-4020-bb59-993d13a700fd_cover_snapshot_0s_1793240249_image.jpeg",
       "delta_comments": 0,
-      "delta_likes": 0,
-      "delta_plays": 0
+      "delta_likes": 1,
+      "delta_plays": 9
     },
     {
       "id": "f43e135a-307d-4066-ae99-ac7cfc67312c",
@@ -131,11 +131,11 @@
       "created_at": "2026-10-25T08:12:56.889Z",
       "comments": 6,
       "likes": 28,
-      "plays": 814,
+      "plays": 840,
       "image": "https://cdn2.suno.ai/video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_video_upload_cf6ad449-535d-4b79-8277-6b3bad44ba70_cover_snapshot_0s_1792919228_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 26
     },
     {
       "id": "449f1f02-f02f-4a8b-86d4-164d19fe5cc1",
@@ -187,7 +187,7 @@
       "image": "https://cdn2.suno.ai/ab85053a-ba8c-4c12-bd94-2fee69fe6541.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 1
+      "delta_plays": 0
     },
     {
       "id": "ead7bb84-6098-4e45-9219-cc3bd67422e6",
@@ -209,11 +209,11 @@
       "created_at": "2026-10-08T23:25:20.719Z",
       "comments": 4,
       "likes": 27,
-      "plays": 1267,
+      "plays": 1272,
       "image": "https://cdn2.suno.ai/c2ff1f03-e28f-4c11-804a-022a05d45feb_397d7f7d.jpeg",
       "delta_comments": 0,
-      "delta_likes": 1,
-      "delta_plays": 4
+      "delta_likes": 0,
+      "delta_plays": 5
     },
     {
       "id": "852ad401-469c-43a6-b3d9-2ba889eeea51",
@@ -260,12 +260,12 @@
       "url": "https://suno.com/song/494a403d-562f-4fd7-963a-f05b2df30edc",
       "created_at": "2026-08-22T23:53:37.331Z",
       "comments": 3,
-      "likes": 26,
-      "plays": 2057,
+      "likes": 27,
+      "plays": 2060,
       "image": "https://cdn2.suno.ai/video_upload_19196e67-4f44-440b-8e51-d592c3dff55d_video_upload_19196e67-4f44-440b-8e51-d592c3dff55d_cover_snapshot_0s_1794443784_image.jpeg",
       "delta_comments": 0,
       "delta_likes": 1,
-      "delta_plays": 27
+      "delta_plays": 3
     },
     {
       "id": "e442b062-c9a6-4842-806e-004650751435",
@@ -278,7 +278,7 @@
       "image": "https://cdn2.suno.ai/16bfe80d-7334-4123-862e-02dec82fc59d.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 16
+      "delta_plays": 0
     },
     {
       "id": "ea8ff59d-95a2-4895-b291-008a717fe82a",
@@ -300,11 +300,11 @@
       "created_at": "2026-08-23T15:05:41.477Z",
       "comments": 3,
       "likes": 10,
-      "plays": 312,
+      "plays": 315,
       "image": "https://cdn2.suno.ai/e6c44ada-326e-4494-8011-adc6b636be42_61aec338.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 0
+      "delta_plays": 3
     },
     {
       "id": "a5e4a862-2c1b-42b8-a67a-8623e196eeb9",
@@ -339,11 +339,11 @@
       "created_at": "2026-09-08T10:56:23.935Z",
       "comments": 2,
       "likes": 15,
-      "plays": 591,
+      "plays": 593,
       "image": "https://cdn2.suno.ai/0bd3a167-930f-476d-a3ad-db656b5330fb_5a654a7b.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 1
+      "delta_plays": 2
     },
     {
       "id": "bda7adec-d581-4bdc-a680-1f11c3794cde",
@@ -408,7 +408,7 @@
       "image": "https://cdn2.suno.ai/2cc28417-6f76-4b51-b06b-04a4fe9f47fc_16c8233b.jpeg",
       "delta_comments": 0,
       "delta_likes": 0,
-      "delta_plays": 7
+      "delta_plays": 0
     },
     {
       "id": "c96d4ec9-c3ef-44d6-8578-a99d75dd85b2",
@@ -455,7 +455,7 @@
       "url": "https://suno.com/song/c68836df-cfb3-43ac-b62a-f54b2f452a1b",
       "created_at": "2026-10-24T19:06:41.795Z",
       "comments": 0,
-      "likes": 22,
+      "likes": 23,
       "plays": 1203,
       "image": "https://cdn2.suno.ai/video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_video_upload_1e917800-4ac2-4382-b0e5-0106a9b1ea0d_cover_snapshot_0s_1792873375_image.jpeg",
       "delta_comments": 0,
@@ -481,12 +481,12 @@
       "url": "https://suno.com/song/f8d03603-cc34-4c13-b3c0-4d878a346790",
       "created_at": "2026-11-22T23:31:01.006Z",
       "comments": 0,
-      "likes": 7,
-      "plays": 50,
+      "likes": 12,
+      "plays": 62,
       "image": "https://cdn2.suno.ai/8f46f7f1-2249-4759-8a58-2c609c2ae179.jpeg",
       "delta_comments": 0,
-      "delta_likes": 3,
-      "delta_plays": 5
+      "delta_likes": 5,
+      "delta_plays": 12
     },
     {
       "id": "3c405289-76df-4ef3-bb60-315ffd91da7e",
